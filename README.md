@@ -1,11 +1,11 @@
 ```js
 const facundo = {
-  tecnologias: {
+  technologies: {
     frontend: [JavaScript, React, React Native, Redux, HTML, CSS],
     backend: [Node, Express, PostgreSQL, Sequelize],
-    otras: [Figma, Git, Scrum]
+    others: [Figma, Git, Scrum]
   },
-  contacto: {
+  contact: {
     email: "facundoagustinortiz@gmail.com"
   }
 }
