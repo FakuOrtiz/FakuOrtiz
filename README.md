@@ -4,6 +4,9 @@ const facundo = {
     frontend: [JavaScript, React, React Native, Redux, HTML, CSS],
     backend: [Node, Express, PostgreSQL, Sequelize],
     otras: [Figma, Git, Agile, Bootstrap]
+  },
+  contacto: {
+    email: "facundoagustinortiz@gmail.com"
   }
 }
 ```
