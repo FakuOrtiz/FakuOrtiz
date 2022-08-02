@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Facundo Ortiz</h1>
 <h3 align="center">Full Stack Web Developer con preferencia en Front-end</h3>
 
-- 💬 ¿Quién soy? **Una persona responsable, comprometida y persistente (al menos, así me considero).**
+- 💬 ¿Quién soy? **Una persona responsable, comprometida y persistente.**
 
 - ⚡ ¿Cuáles son mis hobbies? **Me gusta mucho el fútbol (verlo, soy malísimo jugando), los videojuegos y la música.**
 
