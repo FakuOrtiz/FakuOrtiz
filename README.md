@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://i.gifer.com/origin/c7/c7539a20e2a445a70995408777842c4c.gif">
+</div>
 <h1 align="center">Hola 👋, soy Facundo Ortiz</h1>
 <h3 align="center">Full Stack Web Developer con preferencia en Front-end</h3>
 
