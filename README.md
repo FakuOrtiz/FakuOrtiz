@@ -4,21 +4,26 @@
 <h1 align="center">Hola 👋, soy Facundo Ortiz</h1>
 <h3 align="center">Full Stack Web Developer con preferencia en Front-end</h3>
 
-- 💬 ¿Quién soy? **Una persona responsable, comprometida y persistente.**
+- 💬 ¿Quién soy? **Una persona responsable, comprometida y organizada. Me encanta aprender cosas nuevas, sobre todo referido a la programación. Me gusta estar al día en todo lo relacionado a la tecnología.**
 
-- ⚡ ¿Cuáles son mis hobbies? **Me gusta mucho el fútbol, los videojuegos y la música.**
+- ⚡ ¿Cuáles son mis hobbies? **El fútbol, los videojuegos y la música.**
 
-- 🧙‍♂️ Datos curiosos: **Soy FANÁTICO de Messi y El Señor de los Anillos.**
+- 🧙‍♂️ Datos curiosos: **Soy fanático de Messi, Queen y El Señor de los Anillos.**
 
 - 📫 ¿Quieres contactar? **Te dejo mi email: facundoagustinortiz@gmail.com**
 
 <h3 align="left">Otros medios de contacto:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/facundo-agustin-ortiz-gomez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/facundo-agustin-ortiz-gomez/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/facundo-agustin-ortiz-gomez/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/facundo-agustin-ortiz-gomez/" /></a>
+<a href="https://wa.me/5492613868279" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="https://wa.me/5492613868279" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <h4>Front-end<h4>
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src = "https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Redux.js-764ABC?style=flat&logo=redux&logoColor=white ">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 <h4>Back-end<h4>
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/-PostgreSQL-31648C?style=flat&logo=postgresql&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-Sequelize-399AF3?style=flat&logo=sequelize&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=Express"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue">
+<h4>Otros</h4>
+<p align="left">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</p>
