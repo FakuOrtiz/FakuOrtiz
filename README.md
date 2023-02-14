@@ -5,8 +5,6 @@
 
 - ⚡ ¿Cuáles son mis hobbies? **El fútbol, los videojuegos y la música.**
 
-- 🧙‍♂️ Datos curiosos: **Soy fanático de Messi, Queen y El Señor de los Anillos.**
-
 - 📫 ¿Quieres contactar? **Te dejo mi email: facundoagustinortiz@gmail.com**
 
 <h3 align="left">Otros medios de contacto:</h3>
