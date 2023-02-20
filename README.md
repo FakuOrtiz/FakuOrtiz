@@ -1,14 +1,6 @@
-<h1 align="center">Hola 👋, soy Facundo Ortiz</h1>
-<h3 align="center">Full Stack Web Developer con orientación en Front End</h3>
-
-- 💬 ¿Quién soy? **Soy una persona  responsable, organizada y con persistencia y actitud para crecer día a día tanto profesional como personalmente. Me adapto fácilmente a nuevos proyectos, desafíos y/o tecnologías.**
-
-- ⚡ ¿Cuáles son mis hobbies? **El fútbol, los videojuegos y la música.**
-
-- 📫 ¿Quieres contactar? **Te dejo mi email: facundoagustinortiz@gmail.com**
-
-<h3 align="left">Otros medios de contacto:</h3>
+<h3 align="left">Medios de contacto:</h3>
 <p align="left">
+<a href="mailto:facundoagustinortiz@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-db4a39?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:facundoagustinortiz@gmail.com" /></a>
 <a href="https://linkedin.com/in/facundo-agustin-ortiz-gomez/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/facundo-agustin-ortiz-gomez/" /></a>
 <a href="https://wa.me/5492613868279" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="https://wa.me/5492613868279" /></a>
 </p>
